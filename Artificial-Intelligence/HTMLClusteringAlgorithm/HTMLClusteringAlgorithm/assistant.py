@@ -1,4 +1,7 @@
 """
+
+This is just a general purpose library I wrote that I use in many of my Python applications
+
 In python libs work just like static classes memory wise
 
 e.g.:
